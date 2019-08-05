@@ -31,7 +31,6 @@ public class DayTest {
             case SUNDAY:
                 System.out.println("The day after tomorrow will be Tuesday");
                 break;
-
         }
     }
     public void lastDay() {

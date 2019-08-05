@@ -20,7 +20,6 @@ public class Date {
         this.day = 01;
         this.month = 0;
         this.year = 1970;
-
     }
 
     public int getDay() {

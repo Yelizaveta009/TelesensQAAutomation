@@ -20,7 +20,6 @@ public class Abonent {
         this.lastName = b;
         this.age = c;
         this.gender = i;
-
     }
 
     public long getId() {

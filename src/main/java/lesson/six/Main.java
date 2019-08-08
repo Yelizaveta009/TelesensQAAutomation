@@ -9,19 +9,25 @@ public class Main {
         CheckButton checkButton = new CheckButton(987654321);
         RoundButton roundButton = new RoundButton(3.2);
         Component component = new Component(3);
-        Object[] components = new Component[]
+        Component[] components = new Component[]
                 {label, button, checkButton, roundButton, component, label, roundButton, component, button, checkButton};
 
         System.out.println(Arrays.asList(components));
 
         for (int i = 0; i < components.length; i++)
-            ((Component) components[i]).draw();
+            (components[i]).draw();
 
-        System.out.println ("Экземпляры класса Button и его наследников: ");
+        System.out.println("Экземпляры класса Button и его наследников: ");
         for (int i = 0; i < components.length; i++) {
-            if (components[i] != component && components[i] != label ) {
-                System.out.print(components[i]+"/");
+            if (components[i] instanceof Button) {
+                System.out.println((components[i]) + " ");
             }
         }
+        System.out.println("-------Метод 3D draw---------");
+        for (int i = 0; i < components.length; i++)
+            (components[i]).draw3D();
+
     }
 }
+
+

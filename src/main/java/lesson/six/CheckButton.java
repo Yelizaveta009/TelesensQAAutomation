@@ -9,13 +9,15 @@ public class CheckButton extends Button {
     }
 
     @Override
-    public String toString() {
-        return String.valueOf(d);
-
-    }
+    public String toString(){
+        return String.valueOf(d); }
 
     @Override
-    public void draw() {
-        System.out.println("CheckButton");
-    }
+    public void draw(){
+        System.out.println("CheckButton"); }
+
+        @Override
+        public void draw3D(){
+            System.out.println("CheckButton 3D"); }
 }
+

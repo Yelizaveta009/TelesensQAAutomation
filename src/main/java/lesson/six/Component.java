@@ -1,6 +1,6 @@
 package lesson.six;
 
-public class Component {
+public class Component implements VisualComponent {
     private int q = 3;{
     }
 

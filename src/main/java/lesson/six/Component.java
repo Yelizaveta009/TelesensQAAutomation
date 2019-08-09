@@ -15,6 +15,7 @@ public class Component implements VisualComponent {
         return String.valueOf(q);
     }
 
+    @Override
     public void draw() {
         System.out.println("Component");
 

@@ -1,40 +1,32 @@
 package lesson.transfers.six;
 
-public class DayTest {
-    Week.Day day;
+import java.time.DayOfWeek;
 
-    public DayTest(Week.Day day) {
+public class DayTest {
+    DayOfWeek day;
+
+    public DayTest(DayOfWeek day) {
         this.day = day;
     }
 
     public void nextDay() {
-
-        switch (day) {
-            case MONDAY:
-                System.out.println("The day after tomorrow will be Wednesday");
-                break;
-            case TUESDAY:
-                System.out.println("The day after tomorrow will be Thursday");
-                break;
-            case WEDNESDAY:
-                System.out.println("The day after tomorrow will be Friday");
-                break;
-            case THURSDAY:
-                System.out.println("The day after tomorrow will be Saturday");
-                break;
-            case FRIDAY:
-                System.out.println("The day after tomorrow will be Sunday");
-                break;
-            case SATURDAY:
-                System.out.println("The day after tomorrow will be Monday");
-                break;
-            case SUNDAY:
-                System.out.println("The day after tomorrow will be Tuesday");
-                break;
+        if (day.ordinal() == 5) {
+            System.out.println("The day after tomorrow will be MONDAY ");
+        } else if (day.ordinal() == 6) {
+            System.out.println("The day after tomorrow will be TUESDAY ");
+        } else {
+            System.out.println("The day after tomorrow will be " + DaysOfWeeks.values()[day.ordinal() + 2]);
         }
     }
+
     public void lastDay() {
-        System.out.println("The day before yesterday was " + day.getTheDayBefore());
+        if (day.ordinal() == 0) {
+            System.out.println("The day before yesterday was SATURDAY ");
+        } else if (day.ordinal() == 1) {
+            System.out.println("The day before yesterday was SUNDAY ");
+        } else {
+            System.out.println("The day before yesterday was " + DaysOfWeeks.values()[day.ordinal() - 2]);
+        }
     }
 }
 

@@ -20,7 +20,7 @@ public class Main {
         System.out.println("Экземпляры класса Button и его наследников: ");
         for (int i = 0; i < components.length; i++) {
             if (components[i] instanceof Button) {
-                System.out.println((components[i]) + " ");
+                System.out.println((components[i]));
             }
         }
         System.out.println("-------Метод 3D draw---------");

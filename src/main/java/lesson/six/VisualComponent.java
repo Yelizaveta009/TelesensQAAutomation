@@ -16,7 +16,7 @@ package lesson.six;
 		- продемонстрировать работу метода draw3D() во всех компонентах */
 
 public interface VisualComponent {
-    public void draw();
+    void draw();
 
     default void draw3D() {
         System.out.println("Component 3D");

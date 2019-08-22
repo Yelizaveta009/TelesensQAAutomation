@@ -2,11 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4060dc0f-14c2-43b5-9e9d-3e9f18dafd71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson/ten/HomeTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson/ten/TaskTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Liza.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/util/annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson/eleven/LoggerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson/nine/TaskSecond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Creator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson/tenandeleven/LoggerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Subscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/java-part.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lesson/classroom/TaskFourth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lesson/classroom09/Converter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lesson/classroom09/Converter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/second/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson/second/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson/ten/HomeTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson/nine/TaskFirst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson/ten/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson/nine/TaskThird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lambda/second/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lesson/ten/HomeTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lesson/ten/TaskTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telesens.iml" beforeDir="false" afterPath="$PROJECT_DIR$/telesens.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,62 +48,76 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson/classroom/TaskThird.java">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/java-part.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="56" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="56" />
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson/classroom/TaskSecond.java">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="68">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson/classroom/TaskFirst.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Operator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Subscriber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson/tenandeleven/LoggerDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="27" selection-start-line="13" selection-start-column="7" selection-end-line="16" selection-end-column="9" />
+              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson/ten/HomeTask.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Creator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="37" column="48" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="48" />
+            <state relative-caret-position="3187">
+              <caret line="229" column="1" selection-start-line="229" selection-start-column="1" selection-end-line="229" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2725#2726#0" expanded="true" />
+                <element signature="e#2815#2816#0" expanded="true" />
+                <element signature="e#2852#2853#0" expanded="true" />
+                <element signature="e#2938#2939#0" expanded="true" />
+                <element signature="e#2962#2963#0" expanded="true" />
+                <element signature="e#3015#3016#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson/ten/TaskTwo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#531#537#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lambda/second/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="44" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -87,8 +127,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -99,32 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/lesson/Lesson/SortDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/six/Component.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/six/CheckButton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/seven/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/seven/StringByLastLetter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/seven/StringBySize.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/seven/StringBySecondLetter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/transfers/six/Week.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/transfers/six/DaysOfWeeks.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/transfers/six/DayTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/transfers/six/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/six/Label.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/eight/StringByNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/eught/second/TaskThird.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/eight/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/six/RoundButton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/six/VisualComponent.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/eught/second/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/date/DateTime.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/six/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/classroom/TaskFirst.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/classroom/TaskSecond.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/lambda/Lambda.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/lambda/LambdaArgumentDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/lambda/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/second/Integer.java" />
         <option value="$PROJECT_DIR$/src/main/java/lambda/second/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson/date/Date.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson/classroom/TaskThird.java" />
@@ -135,9 +149,47 @@
         <option value="$PROJECT_DIR$/src/main/java/lesson/elimination/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson/classroom09/Converter.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson/elimination/Data.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/HomeTask.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson/nine/Generic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/nine/GenArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/nine/GenArrayGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/HomeTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/track/stream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/classroom09/StreamDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/track/StreamTrackDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/eleven/Gender.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson/ten/TaskTwo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/TaskThird.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/TaskFirst.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/TaskSecond.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/nine2/TaskSecond.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/nine/TaskSecond.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/eleven/Operator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/eleven/Subscriber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/eleven/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/eleven/ExcelDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j2.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/eleven/LoggerDemo.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/ComparatorList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/Gender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/FromExelTo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/Filler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/Operator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/ConversionToCollection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/ReadXls.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/Subscriber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/ReadExcel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/Logger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/Convertation.java" />
+        <option value="$PROJECT_DIR$/subscribes.txt" />
+        <option value="$PROJECT_DIR$/src/main/resources/java-part.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/Comparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/ComparatorForPerson.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/Creator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/ten/LoggerDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Creator.java" />
       </list>
     </option>
   </component>
@@ -153,6 +205,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,15 +231,52 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="telesens" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="telesens" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson" type="462c0819:PsiDirectoryNode" />
+              <item name="eleven" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="telesens" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson" type="462c0819:PsiDirectoryNode" />
+              <item name="tenandeleven" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="telesens" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -208,13 +298,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TaskTwo">
-    <configuration name="HomeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson.ten.HomeTask" />
+  <component name="RunManager" selected="Application.LoggerDemo (1)">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson.tenandeleven.Demo" />
       <module name="telesens" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson.ten.*" />
+          <option name="PATTERN" value="lesson.tenandeleven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,12 +312,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson.classroom09.Main" />
+    <configuration name="LoggerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson.tenandeleven.LoggerDemo" />
       <module name="telesens" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson.classroom09.*" />
+          <option name="PATTERN" value="lesson.tenandeleven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoggerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson.eleven.LoggerDemo" />
+      <module name="telesens" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson.eleven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,11 +339,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson.classroom09.Main" />
+      <option name="MAIN_CLASS_NAME" value="lesson.ten.Main" />
       <module name="telesens" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson.classroom09.*" />
+          <option name="PATTERN" value="lesson.tenandeleven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,13 +351,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson.elimination.Main" />
+    <configuration name="TaskSecond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson.nine.TaskSecond" />
       <module name="telesens" />
-      <option name="PROGRAM_PARAMETERS" value="-ea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson.elimination.*" />
+          <option name="PATTERN" value="lesson.nine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,39 +364,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskThird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson.classroom.TaskThird" />
-      <module name="telesens" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson.classroom.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson.ten.TaskTwo" />
-      <module name="telesens" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson.ten.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.TaskSecond" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.LoggerDemo" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.LoggerDemo (1)" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TaskTwo" />
-        <item itemvalue="Application.HomeTask" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.LoggerDemo (1)" />
+        <item itemvalue="Application.LoggerDemo" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TaskSecond" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +397,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2468017" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13646056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -323,15 +406,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.92697227" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9264392" weight="0.22666667" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.073027715" side_tool="true" visible="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49573562" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.07356077" side_tool="true" weight="0.22666667" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49253732" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -341,216 +424,12 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23614073" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.93070364" visible="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.069296375" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4978678" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/eight/StringByNumber.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/eught/second/TaskThird.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/eught/second/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/eight/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/date/DateTime.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/six/VisualComponent.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/lambda/Lambda.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/six/CheckButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/six/RoundButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/six/Component.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/six/Button.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-          <folding>
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/six/Label.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/six/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/lambda/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/second/Integer.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/date/Date.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="1966" column="18" selection-start-line="1966" selection-start-column="18" selection-end-line="1966" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/stream/IntPipeline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="501" column="45" selection-start-line="501" selection-start-column="45" selection-end-line="501" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/stream/AbstractPipeline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="259" column="19" selection-start-line="259" selection-start-column="19" selection-end-line="259" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="614" column="15" selection-start-line="614" selection-start-column="15" selection-end-line="614" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/seven/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/seven/StringBySecondLetter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/three/TaskFifth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/three/TaskEighth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/three/TaskFirst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/three/TaskFourth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20230">
-          <caret line="1256" selection-start-line="1256" selection-end-line="1256" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/seven/StringByLastLetter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/seven/StringBySize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/transfers/six/DayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/transfers/six/DaysOfWeeks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -565,20 +444,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/lambda/Lambda.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/lambda/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/elimination/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/transfers/six/DaysOfWeeks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/transfers/six/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/transfers/six/DayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/nine/GenArrayGenerator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/nine/GenArray.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson/elimination/IllegalDateException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -587,54 +482,15 @@
             <element signature="e#139#140#0" expanded="true" />
             <element signature="e#195#196#0" expanded="true" />
             <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson/elimination/Data.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-          <folding>
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#633#634#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
-            <element signature="e#1008#1009#0" expanded="true" />
-            <element signature="e#1061#1062#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/classroom/TaskFourth.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/five/ExtendedTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/five/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/five/DateTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/five/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="23" selection-start-line="8" selection-start-column="3" selection-end-line="44" selection-end-column="5" />
+        <state relative-caret-position="544">
+          <caret line="70" column="61" lean-forward="true" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="61" />
         </state>
       </provider>
     </entry>
@@ -648,35 +504,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/elimination/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson/classroom09/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
+        <state relative-caret-position="510">
           <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/nine/Generic.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/classroom09/Converter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-74">
-          <caret line="14" column="75" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="82" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/second/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/classroom/TaskThird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="56" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="56" />
         </state>
       </provider>
     </entry>
@@ -694,26 +532,274 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/ten/TaskTwo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/classroom/TaskThird.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#531#537#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/ten/HomeTask.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/nine/TaskThird.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="37" column="48" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="48" />
+        <state relative-caret-position="340">
+          <caret line="21" column="60" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/nine/TaskFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/eleven/ExcelDemo.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17.jar!/org/apache/poi/openxml4j/opc/ZipPackage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="188" selection-start-line="188" selection-end-line="188" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/ten/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/nine/TaskSecond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="50" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="276" column="18" selection-start-line="276" selection-start-column="18" selection-end-line="276" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="610" column="39" selection-start-line="610" selection-start-column="39" selection-end-line="610" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="387" column="18" selection-start-line="387" selection-start-column="18" selection-end-line="387" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/ten/FromExelTo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/ten/ComparatorList.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/ten/Gender.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/ten/ConversionToCollection.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/ten/ReadXls.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/ten/ReadExcel.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/io/OutputStreamWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="219" column="11" selection-start-line="219" selection-start-column="11" selection-end-line="219" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/io/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="156" column="8" selection-start-line="156" selection-start-column="8" selection-end-line="156" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/jre/lib/rt.jar!/sun/nio/cs/StreamEncoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2241">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/ten/Convertation.java" />
+    <entry file="file://$PROJECT_DIR$/subscriber-map.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subscribes.txt" />
+    <entry file="file://$PROJECT_DIR$/subscriber.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2831" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="137" column="8" selection-start-line="137" selection-start-column="8" selection-end-line="137" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/ten/Comparator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/ten/Logger.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/ten/ComparatorForPerson.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/java-part.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Subscriber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Operator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/eleven/LoggerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/tenandeleven/LoggerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Creator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3187">
+          <caret line="229" column="1" selection-start-line="229" selection-start-column="1" selection-end-line="229" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2725#2726#0" expanded="true" />
+            <element signature="e#2815#2816#0" expanded="true" />
+            <element signature="e#2852#2853#0" expanded="true" />
+            <element signature="e#2938#2939#0" expanded="true" />
+            <element signature="e#2962#2963#0" expanded="true" />
+            <element signature="e#3015#3016#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>telesens</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

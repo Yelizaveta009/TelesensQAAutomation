@@ -1,4 +1,4 @@
-package lesson.ten;
+package lesson.nine;
 /*1) Дан массив имен: {"Peter", "Helen", "Andry", "Abdel", "Kate", "Veronica", "Leonid", "Alex", "max}
 	a) Создать список List из элементов массива и вывести на экран
 	b) Добавить 3 новых имени в список (Philip, Joseph, Leon) и вывести весь список на экран
@@ -18,7 +18,7 @@ import java.util.Arrays;
 import java.util.Collections;
 
 
-public class HomeTask {
+public class TaskFirst {
     public static void main(String[] args) {
         String[] person = {"Peter", "Helen", "ivan", "Abdel", "zina", "Veronica", "Leonid", "Alex", "Andrey","Kate","Helen"};
         ArrayList<String> personList = new ArrayList<>(Arrays.asList(person));//a) Создать список List из элементов массива.

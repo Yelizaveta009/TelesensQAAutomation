@@ -2,37 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4060dc0f-14c2-43b5-9e9d-3e9f18dafd71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Liza.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_12_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/util/annotations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson/eleven/LoggerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson/nine/TaskSecond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Creator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson/tenandeleven/LoggerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Subscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/java-part.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/second/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson/second/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson/ten/HomeTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson/nine/TaskFirst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson/ten/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson/nine/TaskThird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lambda/second/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lesson/ten/HomeTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lesson/ten/TaskTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/telesens.iml" beforeDir="false" afterPath="$PROJECT_DIR$/telesens.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subscriber-map.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subscriber.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -77,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Subscriber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="153">
               <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
             </state>
           </provider>
@@ -95,7 +66,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/lesson/tenandeleven/LoggerDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="187">
               <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -107,16 +78,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Creator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3187">
+            <state relative-caret-position="818">
               <caret line="229" column="1" selection-start-line="229" selection-start-column="1" selection-end-line="229" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2725#2726#0" expanded="true" />
-                <element signature="e#2815#2816#0" expanded="true" />
-                <element signature="e#2852#2853#0" expanded="true" />
-                <element signature="e#2938#2939#0" expanded="true" />
-                <element signature="e#2962#2963#0" expanded="true" />
-                <element signature="e#3015#3016#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -204,7 +169,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -268,6 +232,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -298,7 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LoggerDemo (1)">
+  <component name="RunManager" selected="Application.TaskSecond">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson.tenandeleven.Demo" />
       <module name="telesens" />
@@ -369,11 +334,9 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.LoggerDemo" />
       <item itemvalue="Application.Demo" />
-      <item itemvalue="Application.LoggerDemo (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LoggerDemo (1)" />
         <item itemvalue="Application.LoggerDemo" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Main" />
@@ -397,7 +360,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13646056" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1380597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -657,6 +620,16 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson/ten/Comparator.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson/ten/Logger.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson/ten/ComparatorForPerson.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/eleven/LoggerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/java-part.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -671,20 +644,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Subscriber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Operator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -692,19 +651,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/eleven/LoggerDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Subscriber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="55" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson/tenandeleven/LoggerDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="187">
           <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -714,16 +677,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson/tenandeleven/Creator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3187">
+        <state relative-caret-position="818">
           <caret line="229" column="1" selection-start-line="229" selection-start-column="1" selection-end-line="229" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2725#2726#0" expanded="true" />
-            <element signature="e#2815#2816#0" expanded="true" />
-            <element signature="e#2852#2853#0" expanded="true" />
-            <element signature="e#2938#2939#0" expanded="true" />
-            <element signature="e#2962#2963#0" expanded="true" />
-            <element signature="e#3015#3016#0" expanded="true" />
           </folding>
         </state>
       </provider>

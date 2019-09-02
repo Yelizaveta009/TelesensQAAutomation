@@ -29,7 +29,7 @@ public class Demo {
         //		- 	в случайном порядке брать свободный номер из operator_number
         //			и привязать к случайно взятому абоненту из таблицы subscriber
         creator.fullPhoneBook();
-        
+
     }
 }
 

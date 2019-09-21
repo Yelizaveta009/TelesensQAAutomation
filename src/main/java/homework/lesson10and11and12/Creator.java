@@ -134,13 +134,13 @@ public class Creator {
 
             finalInformation();
             idNumber.setCellValue( i + 1 );
-            cellSurname.setCellValue( firstNames );
-            cellName.setCellValue( lastNames );
-            gender.setCellValue( genderName );
-            cellAge.setCellValue( age() );
+            cellSurname.setCellValue(firstNames);
+            cellName.setCellValue(lastNames);
+            gender.setCellValue(genderName);
+            cellAge.setCellValue(age());
             finalNumber();
-            cellNumber.setCellValue( numberPhone );
-            cellOperatorsName.setCellValue( operator );
+            cellNumber.setCellValue(numberPhone);
+            cellOperatorsName.setCellValue(operator);
 
             String excel = "subscriber.exc";
             String excelFilePath = getPropertiesPath( excel );
